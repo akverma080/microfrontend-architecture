@@ -1,2 +1,5 @@
 # microfrontend-architecture
-Production-ready micro-frontend setup with Angular, react, Webpack Module Federation, shared auth and UI components.
+Production-ready micro-frontend architecture using React (Phase 1) 
+and Angular (Phase 2) with Webpack Module Federation, shared auth 
+and UI components.
+
